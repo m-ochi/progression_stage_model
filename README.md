@@ -6,7 +6,7 @@ This code is an implementation of Finding Progression Stages in Time-evolving Ev
 # How to Use
 
 ```
-    python progression_stage_model.py
+python progression_stage_model.py
 ```
 
 # Files
