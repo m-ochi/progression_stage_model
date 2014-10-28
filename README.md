@@ -2,6 +2,7 @@ progression_stage_model
 =======================
 
 This code is an implementation of Finding Progression Stages in Time-evolving Event Sequences(WWW '14).
+Original paper is http://dl.acm.org/citation.cfm?id=2568044.
 
 ## How to Use
 
